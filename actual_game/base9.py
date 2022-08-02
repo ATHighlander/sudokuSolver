@@ -1,4 +1,6 @@
-import numpy
+import numpy as np
+
+filling = 0
 
 class Board():
     def __init__(self):
